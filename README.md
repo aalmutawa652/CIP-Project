@@ -25,4 +25,4 @@ A retro-styled Blackjack game made with Python and Tkinter, inspired by the aest
 ## 🚀 Run the Game
 
 ```bash
-python undertale_blackjack.py
+python blackjack.py
